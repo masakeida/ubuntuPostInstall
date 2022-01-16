@@ -1,0 +1,50 @@
+# base
+build-essential
+tmux
+rsync
+rclone
+llvm
+git
+cmake
+source-highlight
+bash-completion
+# editor
+emacs
+vim
+# japanese
+nkf
+a2ps
+mecab
+poppler
+# tex
+texlive
+yatex
+# jdk
+openjdk-8-jdk
+# php
+php
+# python library
+python3-numpy
+python3-scipy
+python3-matplotlib
+python3-pandas
+python3-nltk
+python3-pip
+# other lang
+r-base
+ocaml
+golang
+nodejs
+rust-all
+jq
+# server suite
+samba
+apache2
+nginx
+mysql-client
+mysql-server
+mediawki
+# application
+chromium-browser
+gimp
+vlc

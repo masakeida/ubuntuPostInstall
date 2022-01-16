@@ -1,0 +1,5 @@
+smbd
+nmbd
+apache2
+nginx
+mysql
