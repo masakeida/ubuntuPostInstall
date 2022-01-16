@@ -13,6 +13,7 @@ emacs
 vim
 # japanese
 nkf
+emacs-mozc
 a2ps
 mecab
 poppler
