@@ -1,5 +1,6 @@
 # base
 build-essential
+clang
 tmux
 rsync
 rclone
