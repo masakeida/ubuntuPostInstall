@@ -1,5 +1,6 @@
 # base
 build-essential
+libboost-all-dev
 clang
 tmux
 rsync
