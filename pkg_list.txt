@@ -39,6 +39,7 @@ r-base
 ocaml
 golang
 nodejs
+npm
 rust-all
 jq
 # server suite
