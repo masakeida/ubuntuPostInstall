@@ -1,5 +1,11 @@
+# server suite
 smbd
 nmbd
 apache2
 nginx
 mysql
+# UNIX server suite
+unbound
+nfs-kernel-server
+nis
+rpcbind

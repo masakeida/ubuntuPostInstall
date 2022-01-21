@@ -48,6 +48,10 @@ nginx
 mysql-client
 mysql-server
 mediawki
+# UNIX server suite
+unbound
+nfs-kernel-server
+nis
 # application
 chromium-browser
 gimp
