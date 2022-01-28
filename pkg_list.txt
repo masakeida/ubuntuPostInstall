@@ -25,6 +25,7 @@ texlive
 yatex
 # jdk
 openjdk-8-jdk
+maven
 # php
 php
 # python library
