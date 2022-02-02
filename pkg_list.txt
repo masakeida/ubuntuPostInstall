@@ -2,6 +2,8 @@
 build-essential
 libboost-all-dev
 clang
+bison
+flex
 tmux
 rsync
 rclone
