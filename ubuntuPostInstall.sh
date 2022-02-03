@@ -44,7 +44,7 @@ done
 
 # get login name by uid 1000
 # it is not used below. it is for the future.
-NUSER=`id -u -n 1000`
+# NUSER=`id -u -n 1000`
 
 # modify pkg_list.txt for vmware
 if [ ${VMWARE} = "YES" ]; then
