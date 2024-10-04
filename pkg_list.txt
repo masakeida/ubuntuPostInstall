@@ -1,3 +1,7 @@
+#
+# pkg_list.txt (2024/10/04)
+#
+##
 # base
 build-essential
 libboost-all-dev
@@ -22,7 +26,6 @@ nkf
 emacs-mozc
 a2ps
 mecab
-poppler
 # tex
 texlive
 yatex
@@ -52,7 +55,7 @@ apache2
 nginx
 mysql-client
 mysql-server
-mediawki
+mediawiki
 # UNIX server suite
 unbound
 nfs-kernel-server

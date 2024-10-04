@@ -7,5 +7,5 @@ mysql
 # UNIX server suite
 unbound
 nfs-kernel-server
-nis
+#nis
 rpcbind
