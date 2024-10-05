@@ -1,4 +1,9 @@
 #!/bin/sh
+#
+# aptgetChecker.sh
+#
+#    Dry-run of apt-get install pkg_list.txt (-s option)
+#
 
 usage() {
     cat <<EOF
@@ -28,5 +33,6 @@ fi
 
 cat ${filename} | grep -v "^#" | grep -v "^$" | while read line
 do
+    # dry-run (-s)
     apt-get -y -s install ${line}
 done

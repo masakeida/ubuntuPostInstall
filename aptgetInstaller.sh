@@ -1,4 +1,9 @@
 #!/bin/sh
+#
+# aptgetInstaller.sh
+#
+#    Install packages in pkg_list.txt
+#
 
 usage() {
     cat <<EOF
@@ -28,5 +33,6 @@ fi
 
 cat ${filename} | grep -v "^#" | grep -v "^$" | while read line
 do
+    # install pakages
     apt-get -y install ${line}
 done
