@@ -1,5 +1,5 @@
 #
-# pkg_list.txt (2024/10/04)
+# pkg_list.txt (2024/10/25)
 #
 ##
 # base
@@ -31,6 +31,7 @@ texlive
 yatex
 # jdk
 openjdk-8-jdk
+openjdk-11-jdk
 maven
 # php
 php
